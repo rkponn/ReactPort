@@ -1,7 +1,7 @@
 const links = [
-    { name: 'Projects in Progress', href: '#' },
+    { name: 'Projects', href: '#project-section' },
     { name: 'Github', href: 'https://github.com/rkponn' },
-    { name: 'Contact', href: '/contact' },
+    { name: 'Contact', href: '#contact-section' },
   ]
   const stats = [
     { name: 'Projects Built', value: '18' },
